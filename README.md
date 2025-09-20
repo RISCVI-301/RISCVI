@@ -1,6 +1,6 @@
 Project Repo For Group **Syntax** CMPUT 301
 
-Team Members  
+**Team Members**  
 Swayam Sagar  
 Sanika Verma  
 Basvi Chunara  
