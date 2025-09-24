@@ -3,7 +3,7 @@ package com.example.syntax;
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "white"
+    String color = "maroon"
     public Shape(int x, int y){
         this.x = x;
         this.y = y;
