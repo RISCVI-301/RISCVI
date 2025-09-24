@@ -1,5 +1,5 @@
-#Project Repo For Group **Syntax** CMPUT 301#
-#Group Member Info
+# Project Repo For Group **Syntax** CMPUT 301#
+## Group Member Info
 
 | Student Name | CCID      |
 | ------------ | --------- |
