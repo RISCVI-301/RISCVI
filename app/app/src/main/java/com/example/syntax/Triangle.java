@@ -1,11 +1,11 @@
 package com.example.syntax;
 
-public class Triangle {
+public class Triangle extends Shape{
     private int base;
     private int height;
 
-    public Triangle(int x, int y, base, height){
-        super(x,y);
+    public Triangle(int x,int y,int base,int height) {
+        super(x, y);
         this.base = base;
         this.height = height;
     }
@@ -25,5 +25,4 @@ public class Triangle {
     public void setHeight(int height) {
         this.height = height;
     }
-
 }
