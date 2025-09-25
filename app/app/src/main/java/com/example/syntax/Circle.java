@@ -1,4 +1,4 @@
-package com.example.syntax; // adjust if your package is different
+package com.example.syntax;
 
 public class Circle extends Shape {
     private int radius;
