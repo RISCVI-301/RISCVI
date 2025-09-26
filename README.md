@@ -1,4 +1,1 @@
-# Project Repo For Group **Syntax** CMPUT 301
-
-**Name-Sanika Verma**
-**ccid- sanika3**
+Name - Sanika Verma CCID - sanika3
